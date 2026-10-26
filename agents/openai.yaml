@@ -1,0 +1,4 @@
+interface:
+  display_name: "GZD Agent-to-EndNote"
+  short_description: "Native EndNote citations and reference-library maintenance"
+  default_prompt: "Use $gzd-agent2endnote to prepare and verify a native EndNote manuscript handoff with stable citation identities and versioned reference snapshots."
